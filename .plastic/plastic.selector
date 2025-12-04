@@ -1,0 +1,4 @@
+repository "Wordly/Wordly@7971845880343@cloud"
+  path "/"
+    br "/main"
+    co "/main"
